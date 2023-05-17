@@ -1,0 +1,38 @@
+
+body 
+{
+    background: #E7CBF2;
+}
+
+.t1
+{
+    font-size:20px;
+    font-family: Garamond, serif;
+}
+
+.t2
+{
+    font-size:50px;
+    font-family: Garamond, serif;
+    color:#6B5275;
+}
+
+.t3
+{
+    font-size:50px;
+    font-family: Garamond, serif;
+    color:#6B5275;
+}
+
+.t4
+{
+    font-size:50px;
+    font-family: Garamond, serif;
+    color:#6B5275;
+}
+
+.i1
+{
+    position:relative;
+    left:25px;
+}
