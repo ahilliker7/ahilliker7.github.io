@@ -1,0 +1,24 @@
+.i1
+{
+    position:relative;
+    left:25px;
+}
+
+body 
+{
+    background: #E7CBF2;
+}
+
+.t1
+{
+    font-size:20px;
+    font-family: Garamond, serif;
+}
+
+h1
+{
+    font-size:50px;
+    font-family: Garamond, serif;
+    color:#6B5275;
+    text-align:center;
+}
