@@ -1,0 +1,14 @@
+body 
+{
+    background: #E6E4D4;
+}
+
+h1
+{
+    font-size:125px;
+    color:#529b9f;
+    font-family: Yeseva One, sarif;
+    text-align: center;
+    position:relative;
+    top:-600px;
+}
