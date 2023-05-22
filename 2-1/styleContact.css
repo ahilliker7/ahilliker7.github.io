@@ -1,0 +1,18 @@
+body 
+{
+    background-image: url("contact.png");
+}
+
+.h11
+{
+    position:relative;
+    top:-650px;
+    left:50px;
+}
+
+.h12
+{
+    position:relative;
+    top:-600px;
+    left:50px;
+}
