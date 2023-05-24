@@ -1,7 +1,6 @@
 body 
 {
     background-image: url("title page.png");
-    margin:70px;
 }
 
 h1
@@ -12,13 +11,12 @@ h1
     text-align: center;
     position:relative;
     top:350px;
-    left:300px;
+    left:200px;
 }
 
 table
 {
     float:right;
-    font-family: Rasputin Light, sarif;
 }
         
 a:link, a:visited 
@@ -28,6 +26,4 @@ a:link, a:visited
     padding: 15px 25px;
     text-decoration: none;
     display: inline-block;
-    font-family: Rasputin Light, sarif;
-    border: 5px solid #b7cdb7;
 }

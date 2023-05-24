@@ -10,22 +10,20 @@ a:link, a:visited
     padding: 15px 25px;
     text-decoration: none;
     display: inline-block;
-    border: 5px solid #4f674f;
 }
 
 body 
 {
     background-image: url("about.png");
-    margin: 70px;
 }
 
 h1
 {
     position:relative;
+    left:100px;
     top:150px;
     font-size: 75px;
     color: #2e3c2e;
-    font-family: Rasputin Light, sarif;
 }
 
 .h21
@@ -36,5 +34,4 @@ h1
     text-align:left;
     color:#4f674f;
     right:20px;
-    font-family: Rasputin Light, sarif;
 }

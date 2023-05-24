@@ -1,7 +1,6 @@
 table
 {
     float:right;
-    font-family: Rasputin Light, sarif;
 }
         
 a:link, a:visited 
@@ -11,52 +10,45 @@ a:link, a:visited
     padding: 15px 25px;
     text-decoration: none;
     display: inline-block;
-    font-family: Rasputin Light, sarif;
-    border: 5px solid #b7cdb7;
 }
 
 body 
 {
     background-image: url("work.png");
-    margin:70px;
 }
 
 .h11
 {
     position:relative;
-    
+    left:100px;
     top:150px;
     font-size: 75px;
     color:white;
-    font-family: Rasputin Light, sarif;
 }
 
 .h12
 {
     position:relative;
-    
+    left:100px;
     top:100px;
     font-size: 75px;
     color:white;
-    font-family: Rasputin Light, sarif;
 }
 
 h2
 {
     position:relative;
-    
+    left: 100px;
     color:white;
     top:200px;
     font-size:40px;
-    font-family: Rasputin Light, sarif;
 }
 
 h3
 {
     position:relative;
-    
+    left:100px;
     color:white;
     top:200px;
     font-size:25px;
-    font-family: Rasputin Light, sarif;
 }
