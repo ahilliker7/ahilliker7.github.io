@@ -123,7 +123,7 @@ transform: rotate(45deg);
     height:93px;
     position: absolute;
     top:200px;
-    left:191px;
+    left:176px;
     font-family:Roboto, sans-serif;
     font-weight:900;
     font-size:78.92px;
@@ -133,4 +133,28 @@ transform: rotate(45deg);
     margin-left:301px;
     margin-bottom:272px;
     margin-right:701px;
+}
+
+.wf
+{
+    width:154px;
+    height:22px;
+    position:absolute;
+    top:543px;
+    left:476px;
+    font-family:Roboto, Sans-serif;
+    font-weight:400;
+    font-size:18px;
+    line-height:21.09px;
+    color:#ffffff;
+}
+
+.line
+{
+    width:343px;
+    position:absolute;
+    top:466px;
+    left:525px;
+    color:#ffffff;
+    
 }
