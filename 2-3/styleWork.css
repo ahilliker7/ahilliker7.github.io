@@ -52,11 +52,6 @@ h3
     position:relative;
     left:100px;
     color:white;
-    top:-100px;
+    top:200px;
     font-size:25px;
-}
-
-.h32
-{
-    font-size:20px;
 }
