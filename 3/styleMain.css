@@ -18,15 +18,18 @@
     float:right;
 }-->
 
-th{
+th, a:link, a:visited{
     position:relative;
-    width:199px;
-    height:8.5px;
-    top:44px;
-    left:855px;   
-    font-family: 'Campton';
+    width:100px;
+    height:10px;
+    top:5px;
+    left:555px;   
+    font-family: Campton, sans-serif;
+    font-weight:bold;
+    text-decoration:none;
     font-size:12px;
     line-height:14px;
+    background-color: #E5E5E5;
     color:#3D3D3D
 }
 
@@ -36,65 +39,13 @@ body
     margin:40px;
 }
 
-.b1
-{
-    position: absolute;
-width: 14px;
-height: 14px;
-left: 89px;
-top: 59.8px;
-
-background: #F24F2B;
-mix-blend-mode: multiply;
-transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
-}
-
-.b2
-{
-    position: absolute;
-width: 14px;
-height: 14px;
-left: 128.6px;
-top: 59.8px;
-
-background: #1FBCFA;
-mix-blend-mode: multiply;
-transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
-}
-
-.b3
-{
-    position: absolute;
-width: 14px;
-height: 14px;
-left: 98.8px;
-top: 30px;
-
-background: #19CF87;
-mix-blend-mode: multiply;
-transform: rotate(45deg);
-}
-
-.b4
-{
-    position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 98.8px;
-    top: 69.6px;
-    
-    background: #A159F9;
-    mix-blend-mode: multiply;
-    transform: rotate(-135deg);
-}
-
 .goFig
 {
     position: absolute;
     width: 75px;
     height: 36px;
     left: 157px;
-    top: 64px;
+    top: 25px;
     font-family: Campton, Sans-serif;
     font-size: 25.886px;
     line-height: 30px;
@@ -105,7 +56,7 @@ transform: rotate(45deg);
 {
     position:relative;
     left:50px;
-    top:10px;
+    top:-28px;
 }
 
 .gpb
@@ -113,7 +64,7 @@ transform: rotate(45deg);
     position:relative;
     width:96%;
     height:700px;
-    top:79px;
+    top:5px;
     left:40px;
 }
 
@@ -150,11 +101,21 @@ transform: rotate(45deg);
 }
 
 .line
-{
-    width:343px;
+{    
     position:absolute;
-    top:466px;
-    left:525px;
-    color:#ffffff;
-    
+    top:463px;
+    left:700px;
+    color:white;
+    font-size:60px;
+}
+
+.blue
+{
+    width:540px;
+    height:847px;
+    position:absolute;
+    top:120px;
+    left:1305px;
+    background:#031cff;
+    mix-blend-mode:multiply;
 }
